@@ -6,5 +6,5 @@ in this program i use two images
 
 using face detection module and open cv module 
 
-for run this project to your device dounload those images as well
+for run this project to your device download those images as well
 
